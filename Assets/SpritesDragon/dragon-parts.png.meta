@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 6d280d82c4946304da4d28d4d12822aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6277167391341158998
+    second: cabeca
+  - first:
+      213: 2314982539142849546
+    second: tronco
+  - first:
+      213: -5296255833926716185
+    second: cauda
+  - first:
+      213: -1497395771314907620
+    second: rabo
+  - first:
+      213: -8534091886112108528
+    second: esquerdo-perna
+  - first:
+      213: 8270273555928925283
+    second: direito-braco
+  - first:
+      213: 2904344160092759235
+    second: direita-perna
+  - first:
+      213: 366813145730594401
+    second: esquerdo-braco
+  - first:
+      213: -6072096204098199849
+    second: direita-mao
+  - first:
+      213: -7497603737281120202
+    second: esquerda-mao
+  - first:
+      213: -245940350205012347
+    second: direita-antebraco
+  - first:
+      213: 2776577452075849623
+    second: esquerda-antebraco
+  - first:
+      213: -9075660593346904841
+    second: sombra
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cabeca
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 74
+        width: 209
+        height: 197
+      alignment: 9
+      pivot: {x: 0.7245091, y: 0.20490386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadd173f38503e8a0800000000000000
+      internalID: -6277167391341158998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronco
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 98
+        width: 117
+        height: 173
+      alignment: 9
+      pivot: {x: 0.34912866, y: 0.5026163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0467d2aa58702020800000000000000
+      internalID: 2314982539142849546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauda
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 132
+        width: 109
+        height: 139
+      alignment: 9
+      pivot: {x: 0.13873935, y: 0.16135313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4353b316bef76b0800000000000000
+      internalID: -5296255833926716185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabo
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 167
+        width: 56
+        height: 103
+      alignment: 9
+      pivot: {x: 0.40301132, y: 0.09132874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c165a92ca7e283be0800000000000000
+      internalID: -1497395771314907620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerdo-perna
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 15
+        width: 90
+        height: 115
+      alignment: 9
+      pivot: {x: 0.46982592, y: 0.68498147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0109eb725a0d09980800000000000000
+      internalID: -8534091886112108528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: direito-braco
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 121
+        width: 56
+        height: 43
+      alignment: 9
+      pivot: {x: 0.75055474, y: 0.5736815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36443783bf9e5c270800000000000000
+      internalID: 8270273555928925283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: direita-perna
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 5
+        width: 101
+        height: 90
+      alignment: 9
+      pivot: {x: 0.8181745, y: 0.57543564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c42fcf20ad4e4820800000000000000
+      internalID: 2904344160092759235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerdo-braco
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 72
+        width: 80
+        height: 47
+      alignment: 9
+      pivot: {x: 0.15488167, y: 0.34591836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663732dc9e271500800000000000000
+      internalID: 366813145730594401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: direita-mao
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.87717867, y: 0.18665177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de9ab87ca49bbba0800000000000000
+      internalID: -6072096204098199849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-mao
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 43
+        width: 49
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5369481, y: 0.6092511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638b7bcff1923f790800000000000000
+      internalID: -7497603737281120202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: direita-antebraco
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.63201267, y: 0.27369252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5865816fd8e369cf0800000000000000
+      internalID: -245940350205012347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esquerda-antebraco
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 23
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5590369, y: 0.72050464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79717525b72688620800000000000000
+      internalID: 2776577452075849623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sombra
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcfb8776c6cc0280800000000000000
+      internalID: -9075660593346904841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
